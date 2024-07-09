@@ -1,7 +1,7 @@
 - 👋 Hi, I’m jayaprakash
-- 👀 I’m interested in DBMS and Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
+- 👀 I’m interested in Python and Devops
+- 🌱 I’m currently learning devops
+- 💞️ I’m looking to collaborate on devops
 - 📫 reach me on linkedin 
 
 <!---
